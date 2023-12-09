@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Center the login form */
+.container {
+    text-align: center;
+}
+
+/* Style the form elements */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Style the error message */
+.text-danger {
+    margin-top: 10px;
+    font-size: 14px;
+    color: red;
+}

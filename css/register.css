@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Center the registration form */
+.container {
+    text-align: center;
+}
+
+/* Style the form elements */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Style the register button */
+.btn-primary {
+    width: 100%;
+}
+
+/* Style the error message */
+.text-danger {
+    margin-top: 10px;
+    font-size: 14px;
+    color: red;
+}
